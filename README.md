@@ -7,9 +7,9 @@ A python script which sends an HTML email one-by-one to recepients
 ### Required files
 
 1. `email_meta.json`
-  * Contains the subject of the emails and the Gmail account stuff
+   * Contains the subject of the emails and the Gmail account stuff
 2. `email.html`
-  * The email you wish to spam in HTML form
+   * The email you wish to spam in HTML form
 3. `recipients.txt`
    * The list of recipients for the email
 
